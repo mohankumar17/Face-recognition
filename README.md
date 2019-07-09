@@ -2,9 +2,9 @@
 This project is developed to recognize the face 
 # Tools Used
 Python3
-PIL 
-OpenCV
-Camera
+,PIL 
+,OpenCV
+,Camera
 # Procedure
 1. Gathering the images of the face for training
 2. Training the model
