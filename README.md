@@ -1,4 +1,4 @@
-# Face-Recognisation
+# Face-recognition
 This project is developed to recognize the face 
 # Tools Used
 Python3
